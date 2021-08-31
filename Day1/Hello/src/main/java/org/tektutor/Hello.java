@@ -10,6 +10,7 @@ public class Hello {
 
 		Hello hello = new Hello();
 		System.out.println ( hello.sayHello() );
+		System.out.printlm ("Trying for second build!!");
 
 	}
 
